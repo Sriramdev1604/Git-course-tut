@@ -1,4 +1,4 @@
-function helloFunction(name){
+function helloFunction(name,a,b){
     alert("Hello " + name);
     console.log("Hello " + name);
     

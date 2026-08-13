@@ -6,8 +6,8 @@ This repo is all about learning git courses
 
 # This is a new feature 2.0 added.
 
-# Index 2 js file added successfully over new commit of feature
+# We are using index2 file and using for loop statements.
 
-# Upstream connect branch from local to github
+# We are using index file and added one more function add(a,b).
 
-# This is bug one
+# in HTML file added the new btn to run the function and add method as well.

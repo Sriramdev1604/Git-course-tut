@@ -11,3 +11,6 @@ This repo is all about learning git courses
 # We are using index file and added one more function add(a,b).
 
 # in HTML file added the new btn to run the function and add method as well.
+
+
+# This is commit 1

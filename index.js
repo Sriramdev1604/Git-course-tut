@@ -15,3 +15,11 @@ function helloFunction(name,a,b){
 
 } 
 
+ 
+
+// Non primary task (in development mode)
+const welcomeBanner = () => {
+    alert("Welcome to the Git Fundamentals ");
+}
+
+welcomeBanner();

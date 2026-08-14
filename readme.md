@@ -14,3 +14,5 @@ This repo is all about learning git courses
 
 
 # This is commit 1
+
+# This is commit 2

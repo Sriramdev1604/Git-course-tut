@@ -12,7 +12,6 @@ This repo is all about learning git courses
 
 # in HTML file added the new btn to run the function and add method as well.
 
-
 # This is commit 1
 
 # This is commit 2
@@ -20,3 +19,5 @@ This repo is all about learning git courses
 # This is commit 3
 
 # This is commit 4
+
+# This is revert one
